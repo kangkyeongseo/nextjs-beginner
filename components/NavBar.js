@@ -19,7 +19,7 @@ export default function NavBar() {
           display: flex;
           flex-direction: column;
           align-items: center;
-          padding: 20px 0px 0px 10px;
+          padding: 20px 0px 10px 0px;
           box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
             rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
         }
